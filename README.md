@@ -34,7 +34,7 @@
 
 **Результат:**
 
-![6.1 curl](./f_r_screen.png)
+![6.1 curl](./assets/f_r_screen.png)
 
 Сервер повертає коректний JSON-об'єкт та заголовок Сontent-Type: application/json.
 
@@ -42,28 +42,28 @@
 
 **Результат:**
 
-![6.2 curl](./f_w_screen1.png)
+![6.2 curl](./assets/f_w_screen1.png)
 
 Тіло запиту успішно проходить валідацію JSON.parse() та записується у файл.
 
-![6.2 Written file](./f_w_screen2.png)
+![6.2 Written file](./assets/f_w_screen2.png)
 
 ### 6.3 File update (COMPLETED):
 
 **Результат:**
 
-![6.3 curl](./f_u_screen1.png)
+![6.3 curl](./assets/f_u_screen1.png)
 
 Об'єкт знайдено через findIndex, оновлено, а інші дані залишилися без змін.
 
-![6.3 Updated file](./f_u_screen2.png)
+![6.3 Updated file](./assets/f_u_screen2.png)
 
 ### 6.4 File delete (COMPLETED):
 
 **Результат:**
 
-![6.4 curl](./f_d_screen1.png)
+![6.4 curl](./assets/f_d_screen1.png)
 
 Фільтрація через filter() пройшла успішно, статус 404 повертається при повторному видаленні.
 
-![6.4 Updated file](./f_d_screen2.png)
+![6.4 Updated file](./assets/f_d_screen2.png)
