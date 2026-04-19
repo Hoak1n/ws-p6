@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "eu-node-basics-workshop": "^1.0.0"
+  },
+  "name": "practical-w6",
+  "version": "1.0.0",
+  "description": "Практична робота № 6\r Рішення практичних завдань в розділі Practice 6 - File-Based Persistence",
+  "main": "file_delete.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hoak1n/ws-p6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hoak1n/ws-p6/issues"
+  },
+  "homepage": "https://github.com/Hoak1n/ws-p6#readme"
+}

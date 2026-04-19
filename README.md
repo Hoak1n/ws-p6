@@ -67,3 +67,7 @@
 Фільтрація через filter() пройшла успішно, статус 404 повертається при повторному видаленні.
 
 ![6.4 Updated file](./assets/f_d_screen2.png)
+
+### COMPLETE:
+
+![Completed](./assets/success.png)
